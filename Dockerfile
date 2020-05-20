@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD ["echo", ""HI""]
+CMD ["echo", ""HI""] 
